@@ -7,7 +7,6 @@ Clean Code çalışması
 chapter sorumluları : https://github.com/ge06/cleanCode/blob/main/chapterListesi.md
 
 
-herkes kendi chapterina sunum dosyalarını readme sayfalarını tuttsun kod örnekleri varsa orda paylaşsın.
 
 Herkes kendi sorumluğundaki chapter için güzel bir sunum hazırlamak zorundadır.Sunum ları readme file olacak şekilde hazırlayabilirsiniz. -> Örnek ch8 için sunum hazırlamak için, part 2 içinde ch8 diye bir directory açıp bunun içinde ch8ReadMe.md adlı dosya açıp bunu ide üzerinde düzenleyebilirsiniz.Son olarak proje readme file içine bunun linkini bırakınız.
 
