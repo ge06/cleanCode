@@ -4,7 +4,7 @@ Clean Code çalışması
 1.Source altında bulunan Code Complete kısmının ilgili kısımları okunacak.
 2.Udemy clean code videosu izlenecek.
 
-chapter
+chapter sorumluları : https://github.com/ge06/cleanCode/blob/main/chapterListesi.md
 
 
 herkes kendi chapterina sunum dosyalarını readme sayfalarını tuttsun kod örnekleri varsa orda paylaşsın.
